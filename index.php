@@ -1,12 +1,7 @@
- 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Zam Zam Estate</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php include "./partials/header.php" ?>
+
+<p>hello</p>
+
+
+
+<?php include "./partials/footer.php" ?>
