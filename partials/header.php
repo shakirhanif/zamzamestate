@@ -10,7 +10,7 @@
 <body>
     <nav>
         <div class="logo">
-            <img src="logo.svg" alt="Logo Image">
+            <img src="./assets/zamzam_logo.png" alt="Logo Image">
         </div>
         <div class="hamburger">
             <div class="line1"></div>
